@@ -1,0 +1,15 @@
+// lib/core/app_export.dart
+export 'package:connectivity_plus/connectivity_plus.dart';
+export 'package:foodtracker/routes/app_routes.dart';
+export 'package:foodtracker/widgets/custom_icon_widget.dart';
+export 'package:foodtracker/widgets/custom_image_widget.dart';
+export 'package:foodtracker/theme/app_theme.dart';
+export 'package:foodtracker/services/supabase_service.dart';
+export 'package:foodtracker/services/auth_service.dart';
+export 'package:foodtracker/services/restaurant_service.dart';
+export 'package:foodtracker/services/order_service.dart';
+export 'package:foodtracker/models/restaurant_model.dart';
+export 'package:foodtracker/models/menu_item_model.dart';
+export 'package:foodtracker/models/order_model.dart';
+export 'package:foodtracker/models/driver_model.dart';
+export 'package:supabase_flutter/supabase_flutter.dart';
