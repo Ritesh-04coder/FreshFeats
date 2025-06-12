@@ -260,7 +260,7 @@ class _SplashScreenState extends State<SplashScreen>
                   FadeTransition(
                     opacity: _logoFadeAnimation,
                     child: Text(
-                      'FoodTracker',
+                      'FreshFeats',
                       style:
                           AppTheme.lightTheme.textTheme.headlineLarge?.copyWith(
                         color: Colors.white,
