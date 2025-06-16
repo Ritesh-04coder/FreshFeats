@@ -117,7 +117,10 @@ This project was built to demonstrate:
 
 **Rites Kumar Singh**  
 Mobile Developer | Flutter Enthusiast  
-[LinkedIn](https://linkedin.com/in/ritesh-singh)
+[LinkedIn](https://www.linkedin.com/in/ritesh-singh1/)
+
+🌐 **GitHub Repo:** [github.com/neutron420/FreshFeats(https://github.com/neutron420/FreshFeats)
+💼 Contributions Welcome: Forks and contributions are encouraged. 
 
 ---
 
