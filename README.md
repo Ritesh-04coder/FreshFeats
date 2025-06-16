@@ -115,11 +115,12 @@ This project was built to demonstrate:
 
 ## 👨‍💻 Author
 
-**Rites Kumar Singh**  
+**Ritesh Kumar Singh**  
 Mobile Developer | Flutter Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/ritesh-singh1/)
 
 🌐 **GitHub Repo:** [github.com/neutron420/FreshFeats(https://github.com/neutron420/FreshFeats)
+---
 💼 Contributions Welcome: Forks and contributions are encouraged. 
 
 ---
